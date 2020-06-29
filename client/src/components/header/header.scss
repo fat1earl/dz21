@@ -1,0 +1,35 @@
+header {
+    font-size: 20px;
+    // border-radius: 4px;
+    background: rgb(236, 233, 233);
+    color: black;
+    max-width: 912px;
+    margin: 0 auto;
+    div {
+        display: flex;
+    flex-direction: column;
+    }
+    ul {
+        padding: 0;
+    }
+    li {
+        list-style-type: none;
+    }
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    button {
+        height: 40px;
+        width: 64px;
+        border-radius: 10px;
+    }
+    
+
+    
+    
+    
+    
+   
+
+  }
